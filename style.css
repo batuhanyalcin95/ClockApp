@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;800&display=swap");
+
+body {
+  background: black;
+}
+
+.digital-clock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #fb0b0b;
+  font-size: 60px;
+  font-weight: 600;
+  font-family: Orbitron;
+  letter-spacing: 9px;
+}
